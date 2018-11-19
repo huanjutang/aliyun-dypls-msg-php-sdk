@@ -1,5 +1,5 @@
 {
-    "name": "aliyuncs/aliyun-dypls-msg-php-sdk",
+    "name": "huanjutang/aliyun-dypls-msg-php-sdk",
     "description": "Aliyun PLS message SDK for PHP",
     "keywords": [ "aliyun", "PLS", "sdk" ],
     "type": "library",
@@ -7,7 +7,7 @@
     "homepage": "https://www.aliyun.com/product/pls",
     "authors": [
         {
-            "name": "Aliyuncs",
+            "name": "Huanjutang",
             "homepage": "https://www.aliyun.com"
         }
     ],
